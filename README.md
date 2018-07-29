@@ -7,7 +7,7 @@
 * **实现技术：**
   * 主要使用VUE搭建
 
-**[在线演示](http://loisluo.com/app)**
+**[在线演示](http://loisluo.com/app)** <br/>
 **PS:请在chrome浏览器的手机模式下查看**
 
 
